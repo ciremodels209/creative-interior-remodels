@@ -16,3 +16,9 @@ services.html
 gallery.html
 about.html
 contact.html
+
+
+FIXED IMAGE VERSION:
+- Upload index.html, all other HTML files, style.css, script.js, .nojekyll, and the complete images folder.
+- On GitHub, confirm you can open images/project-01.jpg directly.
+- Do not upload the outer cir-professional-website-fixed folder itself.

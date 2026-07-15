@@ -35,7 +35,7 @@ img{max-width:100%;display:block}
 .btn.outline{background:transparent;border-color:#fff}
 .btn.white{background:#fff;color:var(--navy);border-color:#fff}
 .call-btn{white-space:nowrap}
-.hero{position:relative;min-height:560px;background:url('assets/images/project-04.jpg') center/cover no-repeat;color:#fff}
+.hero{position:relative;min-height:560px;background:url('images/project-04.jpg') center/cover no-repeat;color:#fff}
 .hero:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(9,17,27,.96) 0%,rgba(9,17,27,.82) 34%,rgba(9,17,27,.28) 60%,rgba(9,17,27,.08) 100%)}
 .hero-inner{position:relative;z-index:1;padding:72px 0 44px;max-width:590px}
 .hero h1{font-size:clamp(2.9rem,5vw,5.2rem);line-height:1.02;margin:0 0 20px;letter-spacing:.015em}
